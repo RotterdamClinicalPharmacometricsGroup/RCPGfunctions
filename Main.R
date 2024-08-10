@@ -2,8 +2,8 @@ library(devtools)
 
 create_package("//storage.erasmusmc.nl/m/MyDocs/670009/My Documents/Documents/Github/RCPGfunctions")
 
-
-
+system("git config user.name 'T. Preijers'")
+system("git config user.name ") #check
 
 # Create functions --------------------------------------------------------
 # use_r("focb_locf")
