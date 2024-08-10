@@ -15,9 +15,16 @@ cov_FFM(wt, height, gender, age = NULL)
 
 \item{age}{numeric}
 }
+\value{
+None
+}
 \description{
 Caculate the fat free mass (FFM)
 }
 \details{
 Functions from https://academic.oup.com/jac/article/73/8/2104/4995076
+}
+\examples{
+None
+
 }

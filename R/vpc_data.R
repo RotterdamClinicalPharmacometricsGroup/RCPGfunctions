@@ -6,7 +6,7 @@
 #' @return vpc datasets
 #' @export
 #'
-#' @examples
+#' @examples -
 #'
 #'
 

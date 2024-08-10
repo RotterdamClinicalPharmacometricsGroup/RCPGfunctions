@@ -27,3 +27,7 @@ None
 \description{
 Calculate lean body weight
 }
+\examples{
+None
+
+}

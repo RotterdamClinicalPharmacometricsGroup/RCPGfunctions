@@ -17,7 +17,7 @@ cov_BSA(weight, height, method)
 Calculate BSA with different methods
 }
 \examples{
--
+ None
 
 
 }

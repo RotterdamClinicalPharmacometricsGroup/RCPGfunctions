@@ -19,9 +19,12 @@ system("git config --global user.email") #check TPreijers@users.noreply.github.c
 # use_r("cov_BSA")
 # use_r("cov_FFM")
 # use_r("cov_IBW")
-# use_r("cov_LBW")
-use_r("vpc_data")
-use_r("bootstrap_data")
+# # use_r("cov_LBW")
+# use_r("vpc_data")
+# use_r("bootstrap_data")
+# use_r("read_NM_table")
+# use_r("un")
+
 
 # Load functions into environment -----------------------------------------
 load_all()

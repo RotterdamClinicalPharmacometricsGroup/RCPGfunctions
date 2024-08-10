@@ -11,6 +11,14 @@ cov_IBW(sex, len)
 
 \item{len}{numeric meters}
 }
+\value{
+None
+}
 \description{
 Calculate ideal body weight
+}
+\examples{
+None
+
+
 }

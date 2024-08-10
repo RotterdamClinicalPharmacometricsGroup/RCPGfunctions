@@ -11,6 +11,13 @@ cov_BMI(weight, len)
 
 \item{len}{in meters}
 }
+\value{
+None
+}
 \description{
 calculate body mass index
+}
+\examples{
+ None
+
 }

@@ -15,6 +15,13 @@ cls_env(keep.vals = NULL, patterns = NULL, rm.self = FALSE, rm.show = FALSE)
 
 \item{rm.show}{If not TRUE than function returns the values that would have been removed}
 }
+\value{
+None
+}
 \description{
 Clearing the global environment
+}
+\examples{
+ None
+
 }

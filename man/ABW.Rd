@@ -17,6 +17,13 @@ ABW(val.IBW = NULL, sex = NULL, len = NULL, Weight = NULL)
 
 \item{Weight}{in kg}
 }
+\value{
+None
+}
 \description{
 Calculate the adjusted body weight
+}
+\examples{
+None
+
 }
