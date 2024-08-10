@@ -15,3 +15,7 @@ From this point on you can use the following R code to load the package:
 ```R
 library(RCPGfunctions)
 ```
+
+## License
+
+[MIT license](http://opensource.org/licenses/MIT)
