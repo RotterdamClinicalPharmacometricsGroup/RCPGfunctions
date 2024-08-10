@@ -1,5 +1,5 @@
 # RCPGfunctions 
-## Functions for data modification and plotting of PKPD data collected from the Rotterdam Clinical Pharmacometrics Group
+This package comprises a collection of functions for modification and plotting of PKPD data collected from the Rotterdam Clinical Pharmacometrics Group
 
 ## Installation
 
