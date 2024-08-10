@@ -6,5 +6,12 @@
 The package can be installed using:
 
 ```R
-devtools::install_github("RotterdamClinicalPharmacometricsGroup/RCPGfunctions") 
+devtools::install_github("RotterdamClinicalPharmacometricsGroup/RCPGfunctions")
+
+```
+
+From this point on you can use the following R code to load the package:
+
+```R
+library(RCPGfunctions)
 ```
