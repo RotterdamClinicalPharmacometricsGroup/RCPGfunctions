@@ -20,8 +20,8 @@ system("git config --global user.email") #check TPreijers@users.noreply.github.c
 # use_r("cov_FFM")
 # use_r("cov_IBW")
 # use_r("cov_LBW")
-
-
+use_r("vpc_data")
+use_r("bootstrap_data")
 
 # Load functions into environment -----------------------------------------
 load_all()
