@@ -5,6 +5,7 @@
 #' @param id_col Values from the (patient) ID column
 #' @export
 #' @keywords seq_by_id
+#'
 
 
 seq_by_id <- function(id_col){

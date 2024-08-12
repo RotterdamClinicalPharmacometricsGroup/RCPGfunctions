@@ -2,10 +2,13 @@ Package: RCPGfunctions
 Title: Collection of functions from the Rotterdam Clinical Pharmacometrics Group
 Version: 0.0.0.9000
 Authors@R: 
-    person("Tim", "Preijers", , "", role = c("aut", "cre"),
-           comment = c(ORCID = ""))
+    person("Tim", "Preijers", role = c("aut", "cre"), email=".")
 Description: What the package does (one paragraph).
-License: `use_mit_license()`
+Maintainer: Tim Preijers <Joe.Developer@some.domain.net>
+License: MIT + file LICENSE
 Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports: 
+  readr
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2

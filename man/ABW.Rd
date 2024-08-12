@@ -23,7 +23,3 @@ None
 \description{
 Calculate the adjusted body weight
 }
-\examples{
-None
-
-}

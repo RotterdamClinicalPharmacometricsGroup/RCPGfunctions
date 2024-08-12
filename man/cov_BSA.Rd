@@ -16,11 +16,6 @@ cov_BSA(weight, height, method)
 \description{
 Calculate BSA with different methods
 }
-\examples{
- None
-
-
-}
 \keyword{BSA,}
 \keyword{dubois,}
 \keyword{haycock}

@@ -8,7 +8,7 @@
 #' @return  None
 #' @export
 #'
-#' @examples  None
+#' @examples
 #'
 
 cls_env <- function (keep.vals=NULL, patterns=NULL, rm.self=FALSE, rm.show=FALSE) {

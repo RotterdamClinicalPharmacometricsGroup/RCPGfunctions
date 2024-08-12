@@ -4,7 +4,7 @@
 #'
 #' @return none
 #' @export
-#' @examples -
+#' @examples
 #'
 
 un <- function(x){unique(x)}

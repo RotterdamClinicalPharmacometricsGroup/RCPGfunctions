@@ -6,7 +6,7 @@
 #' @return  None
 #' @export
 #'
-#' @examples  None
+#' @examples
 #'
 
 cov_BMI <- function(weight, len){

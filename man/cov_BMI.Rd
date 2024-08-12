@@ -17,7 +17,3 @@ None
 \description{
 calculate body mass index
 }
-\examples{
- None
-
-}

@@ -21,7 +21,3 @@ None
 \description{
 Clearing the global environment
 }
-\examples{
- None
-
-}

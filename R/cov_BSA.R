@@ -5,7 +5,7 @@
 #' @param method method to calculate BSA: mosteller, dubois, haycock
 #' @keywords BSA, mosteller, dubois, haycock
 #' @export
-#' @examples  None
+#' @examples
 #'
 #'
 

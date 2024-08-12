@@ -8,7 +8,7 @@
 #' @return  None
 #' @export
 #'
-#' @examples None
+#' @examples
 #'
 
 ABW <- function(val.IBW=NULL, sex=NULL, len=NULL, Weight=NULL){

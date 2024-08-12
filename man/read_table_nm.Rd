@@ -33,7 +33,3 @@ none
 \description{
 Read NONMEM output tables
 }
-\examples{
--
-
-}

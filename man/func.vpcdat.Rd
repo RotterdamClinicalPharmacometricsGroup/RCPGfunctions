@@ -17,8 +17,3 @@ vpc datasets
 \description{
 Load VPC data
 }
-\examples{
--
-
-
-}

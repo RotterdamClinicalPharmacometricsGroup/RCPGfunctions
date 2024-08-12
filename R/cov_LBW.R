@@ -8,7 +8,7 @@
 #' @return None
 #' @export
 #'
-#' @examples None
+#' @examples
 #'
 
 cov_LBW <- function(sex, weight, val.BMI=NULL, len=NULL){

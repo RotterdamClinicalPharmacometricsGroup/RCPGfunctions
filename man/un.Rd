@@ -15,7 +15,3 @@ none
 \description{
 Retrieve unique values
 }
-\examples{
--
-
-}

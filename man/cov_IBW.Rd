@@ -17,8 +17,3 @@ None
 \description{
 Calculate ideal body weight
 }
-\examples{
-None
-
-
-}
