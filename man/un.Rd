@@ -15,3 +15,7 @@ none
 \description{
 Retrieve unique values
 }
+\examples{
+un(c("A","B","C"))
+
+}

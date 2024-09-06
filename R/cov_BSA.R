@@ -1,15 +1,20 @@
 #' Calculate BSA with different methods
 #'
 #' @param weight weight in kg
-#' @param height height in cm
+#' @param height height in m
 #' @param method method to calculate BSA: mosteller, dubois, haycock
 #' @keywords BSA, mosteller, dubois, haycock
 #' @export
 #' @examples
-#'
+#' cov_BSA(70, 1.70, method="mosteller")
 #'
 
-cov_BSA <- function(weight,height,method){
+cov_BSA <- function(weight, height, method){
+
+  if(sum(height>3)>0){stop("Column \"height\" has to be supplied in meters!")}
+
+  height <- height*100 #from m to cm
+
   if(tolower(method) == 'mosteller'){
     BSA <- sqrt((height*weight)/3600)
   }

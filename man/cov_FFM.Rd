@@ -4,10 +4,10 @@
 \alias{cov_FFM}
 \title{Caculate the fat free mass (FFM)}
 \usage{
-cov_FFM(wt, height, gender, age = NULL)
+cov_FFM(weight, height, gender, age = NULL)
 }
 \arguments{
-\item{wt}{numeric}
+\item{weight}{numeric}
 
 \item{height}{numeric}
 
@@ -23,4 +23,8 @@ Caculate the fat free mass (FFM)
 }
 \details{
 Functions from https://academic.oup.com/jac/article/73/8/2104/4995076
+}
+\examples{
+  cov_FFM(70, 1.77, gender="m")
+
 }

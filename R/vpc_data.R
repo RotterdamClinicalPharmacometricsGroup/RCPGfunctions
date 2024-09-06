@@ -6,9 +6,6 @@
 #' @return vpc datasets
 #' @export
 #'
-#' @examples
-#'
-#'
 
 func.vpcdat <- function(fpath, dsname=F){
 

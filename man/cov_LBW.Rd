@@ -4,7 +4,7 @@
 \alias{cov_LBW}
 \title{Calculate lean body weight}
 \usage{
-cov_LBW(sex, weight, val.BMI = NULL, len = NULL)
+cov_LBW(sex, weight, val.BMI = NULL, height = NULL)
 }
 \arguments{
 \item{sex}{1 for male and 0 for female, or "M/m" for male and "F/f" for female}
@@ -17,7 +17,7 @@ cov_LBW(sex, weight, val.BMI = NULL, len = NULL)
 \item specified in kg/m2
 }}
 
-\item{len}{\itemize{
+\item{height}{\itemize{
 \item specified in meters
 }}
 }
@@ -26,4 +26,8 @@ None
 }
 \description{
 Calculate lean body weight
+}
+\examples{
+  cov_LBW("m", 120, val.BMI=34)
+
 }

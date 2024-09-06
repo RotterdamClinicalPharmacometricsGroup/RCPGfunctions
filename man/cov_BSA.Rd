@@ -9,12 +9,16 @@ cov_BSA(weight, height, method)
 \arguments{
 \item{weight}{weight in kg}
 
-\item{height}{height in cm}
+\item{height}{height in m}
 
 \item{method}{method to calculate BSA: mosteller, dubois, haycock}
 }
 \description{
 Calculate BSA with different methods
+}
+\examples{
+cov_BSA(70, 1.70, method="mosteller")
+
 }
 \keyword{BSA,}
 \keyword{dubois,}

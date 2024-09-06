@@ -9,6 +9,7 @@
 #' @export
 #'
 #' @examples
+#' cls_env(keep.vals=c("wd", "ds"))
 #'
 
 cls_env <- function (keep.vals=NULL, patterns=NULL, rm.self=FALSE, rm.show=FALSE) {

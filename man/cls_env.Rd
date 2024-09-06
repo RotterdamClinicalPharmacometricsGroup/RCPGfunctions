@@ -21,3 +21,7 @@ None
 \description{
 Clearing the global environment
 }
+\examples{
+cls_env(keep.vals=c("wd", "ds"))
+
+}

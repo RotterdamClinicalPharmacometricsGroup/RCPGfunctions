@@ -4,16 +4,19 @@
 \alias{cov_BMI}
 \title{calculate body mass index}
 \usage{
-cov_BMI(weight, len)
+cov_BMI(weight, height)
 }
 \arguments{
 \item{weight}{in kg}
 
-\item{len}{in meters}
+\item{height}{in meters}
 }
 \value{
 None
 }
 \description{
 calculate body mass index
+}
+\examples{
+cov_BMI(79, 1.77)
 }

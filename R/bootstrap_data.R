@@ -6,8 +6,6 @@
 #' @return None
 #' @export
 #'
-#' @examples -
-#'
 #'
 
 

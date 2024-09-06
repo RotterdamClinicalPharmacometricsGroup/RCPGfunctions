@@ -15,8 +15,3 @@ None
 \description{
 Function for obtaining BOOTSTRAP data
 }
-\examples{
--
-
-
-}

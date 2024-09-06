@@ -5,6 +5,7 @@
 #' @return none
 #' @export
 #' @examples
+#' un(c("A","B","C"))
 #'
 
 un <- function(x){unique(x)}
